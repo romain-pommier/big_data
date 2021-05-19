@@ -2,3 +2,4 @@ virtualenv
 Flask
 Flask-SQLAlchemy
 SQLAlchemy
+pymysql
